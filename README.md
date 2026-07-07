@@ -75,7 +75,7 @@ Make-Slider/
 
 ---
 
-## 🎥 Demo Video
+## 🎥 project Video
 Add your project make slider video below.
 
 https://drive.google.com/file/d/17OP2QULWHn9klwWEWvu0do_3_Q9Re3N6/view?usp=sharing
