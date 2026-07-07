@@ -1,3 +1,4 @@
+## make slider project
 # 🎞️ Image Slider
 
 A modern and responsive **Image Slider** created using **HTML, CSS, and JavaScript**. This project is beginner-friendly and demonstrates how to build a smooth image slider without using any external libraries.
@@ -75,14 +76,9 @@ Make-Slider/
 ---
 
 ## 🎥 Demo Video
+Add your project make slider video below.
 
-Add your project demo video below.
-
-```
-nityen.mp4
-```
-
-Or upload it to GitHub and add the video link here.
+https://drive.google.com/file/d/17OP2QULWHn9klwWEWvu0do_3_Q9Re3N6/view?usp=sharing
 
 ---
 
@@ -166,4 +162,3 @@ and
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
-
