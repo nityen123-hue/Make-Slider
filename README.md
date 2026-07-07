@@ -65,7 +65,7 @@ Make-Slider/
 
 ### 👨‍👩‍👧 Family
 
-![Family](https://drive.google.com/file/d/1JN0qSt1mNs1qzokM8Kc1cWXJZU8vObdd/view?usp=sharing)
+![Family](![alt text](image.png))
 
 ---
 
