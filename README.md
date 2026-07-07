@@ -65,7 +65,7 @@ Make-Slider/
 
 ### 👨‍👩‍👧 Family
 
-![Family](https://s3.ap-south-1.amazonaws.com/awsimages.imagesbazaar.com/HomeImages/Lifestyle-Families.jpg?w=248&fit=crop&auto=format)
+![Family](https://s3.ap-south-1.amazonaws.com/awsimages.imagesbazaar.com/HomeImages/Lifestyle-Families.jpg?w=248&fit=crop&auto=format.jpg)
 
 ---
 
